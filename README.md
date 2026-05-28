@@ -43,5 +43,5 @@
 ---
 
 ## 결과물
-- **Live Demo**: [링크 연결]
+- **Live Demo**: [[링크 연결]](https://pharmacy-research-erp.onrender.com/)
 - **Source Code**: [[GitHub 링크]](https://github.com/sy-lee00/pharmacy-research-erp.git)

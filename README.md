@@ -44,4 +44,5 @@
 
 ## 결과물
 - **Live Demo**: [[링크 연결]](https://pharmacy-research-erp.onrender.com/)
+  id/pwd: david.lee3@naver.com / qwer1234
 - **Source Code**: [[GitHub 링크]](https://github.com/sy-lee00/pharmacy-research-erp.git)
